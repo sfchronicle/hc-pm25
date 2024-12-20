@@ -1,0 +1,55 @@
+Station,2021,2022,2023,3-yr Avg,County,Region,Site Name
+483750320.2,6.28,6.19,5.72,6.06,Potter,Amarillo,
+484530014.1,8.27,7.95,10.03,8.75,Travis,Austin,
+484530021.3,9.54,8.56,9.43,9.18,Travis,Austin,
+484531068.2,8.91,9.56,10.42,9.63,Travis,Austin,
+484911094.1,7.60,7.55,9.42,8.19,Williamson,Austin,
+482450021.4,7.71,8.53,,8.12,Jefferson,BPA,
+482450021.6,,8.40,,8.40,Jefferson,BPA,
+482450022.2,7.35,8.04,8.66,8.02,Jefferson,BPA,
+482450628.1,10.31,9.57,,9.94,Jefferson,BPA,
+483611100.1,7.72,8.40,8.58,8.24,Orange,BPA,
+482730314.1,10.12,10.16,9.37,9.88,Kleberg,CCV,
+483550032.3,7.98,8.30,8.85,8.38,Nueces,CCV,
+483550032.4,9.36,9.02,9.82,9.40,Nueces,CCV,
+483550034.1,,,8.47,8.47,Nueces,CCV,
+481130050.3,,,10.32,10.32,Dallas,DFW,
+481130069.4,8.11,8.24,9.96,8.77,Dallas,DFW,
+481210034.1,7.62,7.46,7.95,7.68,Denton,DFW,
+482570005.1,,,7.70,7.70,Kaufman,DFW,
+483491051.1,,,8.68,8.68,Navarro,DFW,
+484391002.3,9.21,8.43,8.78,8.81,Tarrant,DFW,
+484391006.2,9.60,8.51,10.60,9.57,Tarrant,DFW,
+484391053.2,8.76,8.31,8.44,8.50,Tarrant,DFW,
+484391053.3,8.79,10.12,11.65,10.19,Tarrant,DFW,
+480430101.1,5.38,6.09,7.43,6.30,Brewster,El Paso,
+481410044.6,9.30,9.09,8.57,8.99,El Paso,El Paso,
+480610006.2,9.23,8.11,,8.67,Cameron,Harlingen,
+480612004.1,10.89,10.25,11.40,10.84,Cameron,Harlingen,
+482150043.2,10.96,9.27,,10.12,Hidalgo,Harlingen,
+482151046.2,,,9.15,9.15,Hidalgo,Harlingen,
+480391607.1,7.93,7.42,,7.67,Brazoria,HGB,Oyster Creek
+481671034.2,7.24,8.14,9.72,8.36,Galveston,HGB,Galveston 99th Street
+482010024.4,10.04,10.25,10.22,10.17,Harris,HGB,Houston Aldine
+482010046.1,,11.84,13.16,12.50,Harris,HGB,Houston North Wayside
+482010055.1,,,10.84,10.84,Harris,HGB,Houston Bayland Park
+482010058.2,9.69,10.54,11.43,10.55,Harris,HGB,Baytown
+482010066.1,8.22,8.05,9.60,8.62,Harris,HGB,Houston Westhollow
+482011034.1,10.57,9.93,10.55,10.35,Harris,HGB,Houston East
+482011039.4,8.86,8.69,,8.78,Harris,HGB,Houston Deer Park #2
+482011039.6,,,10.22,10.22,Harris,HGB,Houston Deer Park #2
+482011050.1,,8.51,8.68,8.60,Harris,HGB,Seabrook Friendship Park
+482011052.2,,11.26,12.32,11.79,Harris,HGB,Houston North Loop
+483390078.1,,9.74,10.28,10.01,Montgomery,HGB,Conroe Relocated
+483230004.1,8.10,7.72,7.91,7.91,Maverick,Laredo,
+484790313.1,10.26,9.76,9.16,9.72,Webb,Laredo,
+483031028.1,6.27,5.64,5.37,5.76,Lubbock,Lubbock,
+481351014.1,7.48,7.61,6.91,7.33,Ector,Midland,
+480131090.1,8.94,9.14,8.98,9.02,Atascosa,San Antonio,
+480290032.2,8.81,8.51,8.91,8.75,Bexar,San Antonio,
+480290059.2,7.15,6.96,7.45,7.18,Bexar,San Antonio,
+480291069.2,8.59,8.51,9.72,8.94,Bexar,San Antonio,
+480371031.2,10.23,10.36,10.50,10.36,Bowie,Tyler,
+482030002.2,,10.23,8.72,9.47,Harrison,Tyler,
+480271045.1,7.45,7.09,7.88,7.48,Bell,Waco,
+480411086.1,8.03,7.89,8.07,7.99,Brazos,Waco,

@@ -1,0 +1,524 @@
+state,county,state_cnty,cnty_fips,pm25_annual,previous_nonatt
+Alabama,Baldwin County,"Baldwin County, Alabama",01003,7.5,No
+Alabama,Clay County,"Clay County, Alabama",01027,6.8,No
+Alabama,DeKalb County,"DeKalb County, Alabama",01049,7.2,No
+Alabama,Etowah County,"Etowah County, Alabama",01055,8.2,No
+Alabama,Jefferson County,"Jefferson County, Alabama",01073,8.4,Yes
+Alabama,Madison County,"Madison County, Alabama",01089,7.1,No
+Alabama,Mobile County,"Mobile County, Alabama",01097,7.9,No
+Alabama,Morgan County,"Morgan County, Alabama",01103,7.4,No
+Alabama,Russell County,"Russell County, Alabama",01113,9.1,No
+Alabama,Tuscaloosa County,"Tuscaloosa County, Alabama",01125,7.6,No
+Alaska,Anchorage Municipality,"Anchorage Municipality, Alaska",02020,5.6,No
+Alaska,Fairbanks North Star Borough,"Fairbanks North Star Borough, Alaska",02090,12.2,Yes
+Alaska,Juneau City and Borough,"Juneau City and Borough, Alaska",02110,4.9,No
+Alaska,Matanuska-Susitna Borough,"Matanuska-Susitna Borough, Alaska",02170,4.5,No
+Arizona,La Paz County,"La Paz County, Arizona",04012,4.1,No
+Arizona,Maricopa County,"Maricopa County, Arizona",04013,10.5,No
+Arizona,Pima County,"Pima County, Arizona",04019,6.1,No
+Arizona,Pinal County,"Pinal County, Arizona",04021,12.4,Yes
+Arizona,Santa Cruz County,"Santa Cruz County, Arizona",04023,10.2,Yes
+Arizona,Yuma County,"Yuma County, Arizona",04027,8.9,No
+Arkansas,Arkansas County,"Arkansas County, Arkansas",05001,7.5,No
+Arkansas,Crittenden County,"Crittenden County, Arkansas",05035,7.8,No
+Arkansas,Polk County,"Polk County, Arkansas",05113,7.8,No
+Arkansas,Pulaski County,"Pulaski County, Arkansas",05119,8.8,No
+Arkansas,Washington County,"Washington County, Arkansas",05143,7.5,No
+California,Alameda County,"Alameda County, California",06001,9.4,Yes
+California,Butte County,"Butte County, California",06007,11.6,Yes
+California,Calaveras County,"Calaveras County, California",06009,9,No
+California,Colusa County,"Colusa County, California",06011,10.5,No
+California,Contra Costa County,"Contra Costa County, California",06013,10,Yes
+California,Fresno County,"Fresno County, California",06019,17.5,Yes
+California,Humboldt County,"Humboldt County, California",06023,7.4,No
+California,Imperial County,"Imperial County, California",06025,11.1,Yes
+California,Inyo County,"Inyo County, California",06027,8.8,No
+California,Kern County,"Kern County, California",06029,18.8,Yes
+California,Kings County,"Kings County, California",06031,16.6,Yes
+California,Lake County,"Lake County, California",06033,6.6,No
+California,Los Angeles County,"Los Angeles County, California",06037,13.4,Yes
+California,Madera County,"Madera County, California",06039,13.2,Yes
+California,Marin County,"Marin County, California",06041,7.5,Yes
+California,Mendocino County,"Mendocino County, California",06045,11.1,No
+California,Merced County,"Merced County, California",06047,12.3,Yes
+California,Mono County,"Mono County, California",06051,19.5,No
+California,Monterey County,"Monterey County, California",06053,6.9,No
+California,Nevada County,"Nevada County, California",06057,8.9,No
+California,Orange County,"Orange County, California",06059,11.2,Yes
+California,Placer County,"Placer County, California",06061,10.9,Yes
+California,Plumas County,"Plumas County, California",06063,17,Yes
+California,Riverside County,"Riverside County, California",06065,13.6,Yes
+California,Sacramento County,"Sacramento County, California",06067,11.7,Yes
+California,San Benito County,"San Benito County, California",06069,6.5,No
+California,San Bernardino County,"San Bernardino County, California",06071,14,Yes
+California,San Diego County,"San Diego County, California",06073,10,No
+California,San Francisco County,"San Francisco County, California",06075,8.2,Yes
+California,San Joaquin County,"San Joaquin County, California",06077,12.3,Yes
+California,San Luis Obispo County,"San Luis Obispo County, California",06079,8.7,No
+California,San Mateo County,"San Mateo County, California",06081,7.6,Yes
+California,Santa Barbara County,"Santa Barbara County, California",06083,8,No
+California,Santa Clara County,"Santa Clara County, California",06085,10.7,Yes
+California,Santa Cruz County,"Santa Cruz County, California",06087,7.2,No
+California,Shasta County,"Shasta County, California",06089,9.3,No
+California,Siskiyou County,"Siskiyou County, California",06093,11.6,No
+California,Solano County,"Solano County, California",06095,9.4,Yes
+California,Sonoma County,"Sonoma County, California",06097,7.3,Yes
+California,Stanislaus County,"Stanislaus County, California",06099,14.3,Yes
+California,Sutter County,"Sutter County, California",06101,13.8,Yes
+California,Tehama County,"Tehama County, California",06103,9.9,No
+California,Tulare County,"Tulare County, California",06107,18.4,Yes
+California,Ventura County,"Ventura County, California",06111,7.8,No
+Colorado,Arapahoe County,"Arapahoe County, Colorado",08005,6.1,No
+Colorado,Boulder County,"Boulder County, Colorado",08013,8.7,No
+Colorado,Denver County,"Denver County, Colorado",08031,9.3,No
+Colorado,Douglas County,"Douglas County, Colorado",08035,6.7,No
+Colorado,El Paso County,"El Paso County, Colorado",08041,5.5,No
+Colorado,Larimer County,"Larimer County, Colorado",08069,7.7,No
+Colorado,Mesa County,"Mesa County, Colorado",08077,5.8,No
+Colorado,Rio Blanco County,"Rio Blanco County, Colorado",08103,8.5,No
+Colorado,Weld County,"Weld County, Colorado",08123,8.8,No
+Connecticut,Fairfield County,"Fairfield County, Connecticut",09001,8,Yes
+Connecticut,Hartford County,"Hartford County, Connecticut",09003,7.5,No
+Connecticut,Litchfield County,"Litchfield County, Connecticut",09005,5.1,No
+Connecticut,New Haven County,"New Haven County, Connecticut",09009,8.2,Yes
+Connecticut,New London County,"New London County, Connecticut",09011,6.9,No
+District of Columbia,District of Columbia,"District of Columbia, District of Columbia",11001,8.6,Yes
+Florida,Alachua County,"Alachua County, Florida",12001,7.1,No
+Florida,Brevard County,"Brevard County, Florida",12009,7.9,No
+Florida,Broward County,"Broward County, Florida",12011,9.4,No
+Florida,Duval County,"Duval County, Florida",12031,8.7,No
+Florida,Escambia County,"Escambia County, Florida",12033,9.5,No
+Florida,Hillsborough County,"Hillsborough County, Florida",12057,8.3,No
+Florida,Leon County,"Leon County, Florida",12073,7.2,No
+Florida,Miami-Dade County,"Miami-Dade County, Florida",12086,7.1,No
+Florida,Palm Beach County,"Palm Beach County, Florida",12099,6.7,No
+Florida,Pinellas County,"Pinellas County, Florida",12103,7.7,No
+Florida,Polk County,"Polk County, Florida",12105,8.3,No
+Florida,Sarasota County,"Sarasota County, Florida",12115,7.9,No
+Florida,Seminole County,"Seminole County, Florida",12117,7.5,No
+Florida,Volusia County,"Volusia County, Florida",12127,8.3,No
+Georgia,Bibb County,"Bibb County, Georgia",13021,8.8,Yes
+Georgia,Clarke County,"Clarke County, Georgia",13059,9.2,No
+Georgia,Clayton County,"Clayton County, Georgia",13063,8.4,Yes
+Georgia,Cobb County,"Cobb County, Georgia",13067,8.4,Yes
+Georgia,Coffee County,"Coffee County, Georgia",13069,6.9,No
+Georgia,DeKalb County,"DeKalb County, Georgia",13089,9,Yes
+Georgia,Dougherty County,"Dougherty County, Georgia",13095,9.2,No
+Georgia,Fulton County,"Fulton County, Georgia",13121,9.4,Yes
+Georgia,Glynn County,"Glynn County, Georgia",13127,8.1,No
+Georgia,Gwinnett County,"Gwinnett County, Georgia",13135,8.8,Yes
+Georgia,Hall County,"Hall County, Georgia",13139,8.8,Yes
+Georgia,Houston County,"Houston County, Georgia",13153,9.1,No
+Georgia,Lowndes County,"Lowndes County, Georgia",13185,8.6,No
+Georgia,Muscogee County,"Muscogee County, Georgia",13215,8.3,No
+Georgia,Richmond County,"Richmond County, Georgia",13245,10.4,No
+Georgia,Washington County,"Washington County, Georgia",13303,10.2,No
+Hawaii,Hawaii County,"Hawaii County, Hawaii",15001,3.4,No
+Hawaii,Honolulu County,"Honolulu County, Hawaii",15003,3.7,No
+Hawaii,Maui County,"Maui County, Hawaii",15009,4,No
+Idaho,Ada County,"Ada County, Idaho",16001,8.1,No
+Idaho,Benewah County,"Benewah County, Idaho",16009,10.2,No
+Idaho,Franklin County,"Franklin County, Idaho",16041,6.6,Yes
+Idaho,Lemhi County,"Lemhi County, Idaho",16059,11.3,No
+Idaho,Shoshone County,"Shoshone County, Idaho",16079,10.7,Yes
+Illinois,Champaign County,"Champaign County, Illinois",17019,7.8,No
+Illinois,Cook County,"Cook County, Illinois",17031,10.5,Yes
+Illinois,DuPage County,"DuPage County, Illinois",17043,9.5,Yes
+Illinois,Hamilton County,"Hamilton County, Illinois",17065,8.8,No
+Illinois,Jersey County,"Jersey County, Illinois",17083,8,No
+Illinois,Kane County,"Kane County, Illinois",17089,9.2,Yes
+Illinois,McHenry County,"McHenry County, Illinois",17111,8.9,Yes
+Illinois,McLean County,"McLean County, Illinois",17113,8.9,No
+Illinois,Macon County,"Macon County, Illinois",17115,9.2,No
+Illinois,Madison County,"Madison County, Illinois",17119,10,Yes
+Illinois,Randolph County,"Randolph County, Illinois",17157,8.2,Yes
+Illinois,Rock Island County,"Rock Island County, Illinois",17161,8.8,No
+Illinois,St. Clair County,"St. Clair County, Illinois",17163,10,Yes
+Illinois,Sangamon County,"Sangamon County, Illinois",17167,8.3,No
+Illinois,Will County,"Will County, Illinois",17197,9.7,Yes
+Illinois,Winnebago County,"Winnebago County, Illinois",17201,9.1,No
+Indiana,Bartholomew County,"Bartholomew County, Indiana",18005,7,No
+Indiana,Clark County,"Clark County, Indiana",18019,9.9,Yes
+Indiana,Delaware County,"Delaware County, Indiana",18035,8.1,No
+Indiana,Dubois County,"Dubois County, Indiana",18037,8.8,Yes
+Indiana,Elkhart County,"Elkhart County, Indiana",18039,8.4,No
+Indiana,Greene County,"Greene County, Indiana",18055,7.7,No
+Indiana,Hamilton County,"Hamilton County, Indiana",18057,9.8,Yes
+Indiana,Henry County,"Henry County, Indiana",18065,7.5,No
+Indiana,Howard County,"Howard County, Indiana",18067,7.4,No
+Indiana,Lake County,"Lake County, Indiana",18089,9.8,Yes
+Indiana,LaPorte County,"LaPorte County, Indiana",18091,8.1,No
+Indiana,Madison County,"Madison County, Indiana",18095,8.9,No
+Indiana,Marion County,"Marion County, Indiana",18097,11.9,Yes
+Indiana,Monroe County,"Monroe County, Indiana",18105,7.7,No
+Indiana,Porter County,"Porter County, Indiana",18127,8.3,Yes
+Indiana,St. Joseph County,"St. Joseph County, Indiana",18141,9.6,No
+Indiana,Spencer County,"Spencer County, Indiana",18147,8.2,Yes
+Indiana,Tippecanoe County,"Tippecanoe County, Indiana",18157,8.4,No
+Indiana,Vanderburgh County,"Vanderburgh County, Indiana",18163,9.2,Yes
+Indiana,Vigo County,"Vigo County, Indiana",18167,8.7,No
+Indiana,Whitley County,"Whitley County, Indiana",18183,7.6,No
+Iowa,Black Hawk County,"Black Hawk County, Iowa",19013,7.9,No
+Iowa,Clinton County,"Clinton County, Iowa",19045,8.6,No
+Iowa,Johnson County,"Johnson County, Iowa",19103,7.8,No
+Iowa,Lee County,"Lee County, Iowa",19111,8.2,No
+Iowa,Linn County,"Linn County, Iowa",19113,8.1,No
+Iowa,Montgomery County,"Montgomery County, Iowa",19137,6.7,No
+Iowa,Muscatine County,"Muscatine County, Iowa",19139,8.1,No
+Iowa,Palo Alto County,"Palo Alto County, Iowa",19147,7,No
+Iowa,Polk County,"Polk County, Iowa",19153,7.6,No
+Iowa,Pottawattamie County,"Pottawattamie County, Iowa",19155,8.2,No
+Iowa,Scott County,"Scott County, Iowa",19163,8.4,No
+Iowa,Van Buren County,"Van Buren County, Iowa",19177,7.1,No
+Iowa,Woodbury County,"Woodbury County, Iowa",19193,7.9,No
+Kansas,Johnson County,"Johnson County, Kansas",20091,8.9,No
+Kansas,Neosho County,"Neosho County, Kansas",20133,9.6,No
+Kansas,Sumner County,"Sumner County, Kansas",20191,9.8,No
+Kansas,Wyandotte County,"Wyandotte County, Kansas",20209,10.8,No
+Kentucky,Bell County,"Bell County, Kentucky",21013,9.3,No
+Kentucky,Boyd County,"Boyd County, Kentucky",21019,8,Yes
+Kentucky,Campbell County,"Campbell County, Kentucky",21037,7.8,Yes
+Kentucky,Carter County,"Carter County, Kentucky",21043,6.2,No
+Kentucky,Christian County,"Christian County, Kentucky",21047,9.2,No
+Kentucky,Daviess County,"Daviess County, Kentucky",21059,9,No
+Kentucky,Fayette County,"Fayette County, Kentucky",21067,8.2,No
+Kentucky,Hardin County,"Hardin County, Kentucky",21093,7.9,No
+Kentucky,Jefferson County,"Jefferson County, Kentucky",21111,10.2,Yes
+Kentucky,Perry County,"Perry County, Kentucky",21193,8,No
+Kentucky,Pike County,"Pike County, Kentucky",21195,7.2,No
+Kentucky,Pulaski County,"Pulaski County, Kentucky",21199,8,No
+Kentucky,Warren County,"Warren County, Kentucky",21227,8.1,No
+Louisiana,Caddo Parish,"Caddo Parish, Louisiana",22017,9.6,No
+Louisiana,Calcasieu Parish,"Calcasieu Parish, Louisiana",22019,7.4,No
+Louisiana,East Baton Rouge Parish,"East Baton Rouge Parish, Louisiana",22033,8.5,No
+Louisiana,Iberville Parish,"Iberville Parish, Louisiana",22047,7.7,No
+Louisiana,Jefferson Parish,"Jefferson Parish, Louisiana",22051,7.7,No
+Louisiana,Lafayette Parish,"Lafayette Parish, Louisiana",22055,7.9,No
+Louisiana,Orleans Parish,"Orleans Parish, Louisiana",22071,7.8,No
+Louisiana,Ouachita Parish,"Ouachita Parish, Louisiana",22073,7.5,No
+Louisiana,Rapides Parish,"Rapides Parish, Louisiana",22079,7.4,No
+Louisiana,St. Bernard Parish,"St. Bernard Parish, Louisiana",22087,8,No
+Louisiana,Tangipahoa Parish,"Tangipahoa Parish, Louisiana",22105,7.5,No
+Louisiana,Terrebonne Parish,"Terrebonne Parish, Louisiana",22109,7.2,No
+Louisiana,West Baton Rouge Parish,"West Baton Rouge Parish, Louisiana",22121,8.8,No
+Maine,Androscoggin County,"Androscoggin County, Maine",23001,5.3,No
+Maine,Aroostook County,"Aroostook County, Maine",23003,5.4,No
+Maine,Cumberland County,"Cumberland County, Maine",23005,6.5,No
+Maine,Hancock County,"Hancock County, Maine",23009,3.2,No
+Maine,Kennebec County,"Kennebec County, Maine",23011,5.6,No
+Maine,Penobscot County,"Penobscot County, Maine",23019,4.5,No
+Maryland,Baltimore County,"Baltimore County, Maryland",24005,7.7,Yes
+Maryland,Cecil County,"Cecil County, Maryland",24015,6.8,No
+Maryland,Dorchester County,"Dorchester County, Maryland",24019,5.9,No
+Maryland,Garrett County,"Garrett County, Maryland",24023,5.2,No
+Maryland,Harford County,"Harford County, Maryland",24025,6.7,Yes
+Maryland,Howard County,"Howard County, Maryland",24027,6.9,Yes
+Maryland,Kent County,"Kent County, Maryland",24029,5.5,No
+Maryland,Montgomery County,"Montgomery County, Maryland",24031,6.8,Yes
+Maryland,Prince George's County,"Prince George's County, Maryland",24033,5.9,Yes
+Maryland,Washington County,"Washington County, Maryland",24043,6.8,Yes
+Massachusetts,Berkshire County,"Berkshire County, Massachusetts",25003,7.5,No
+Massachusetts,Bristol County,"Bristol County, Massachusetts",25005,6.4,No
+Massachusetts,Essex County,"Essex County, Massachusetts",25009,6.3,No
+Massachusetts,Franklin County,"Franklin County, Massachusetts",25011,7.8,No
+Massachusetts,Hampden County,"Hampden County, Massachusetts",25013,6.5,No
+Massachusetts,Hampshire County,"Hampshire County, Massachusetts",25015,6.3,No
+Massachusetts,Middlesex County,"Middlesex County, Massachusetts",25017,6.6,No
+Massachusetts,Plymouth County,"Plymouth County, Massachusetts",25023,8.2,No
+Massachusetts,Suffolk County,"Suffolk County, Massachusetts",25025,7.9,No
+Massachusetts,Worcester County,"Worcester County, Massachusetts",25027,8.6,No
+Michigan,Allegan County,"Allegan County, Michigan",26005,6.6,No
+Michigan,Bay County,"Bay County, Michigan",26017,5.8,No
+Michigan,Genesee County,"Genesee County, Michigan",26049,7.2,No
+Michigan,Ingham County,"Ingham County, Michigan",26065,8.5,No
+Michigan,Kalamazoo County,"Kalamazoo County, Michigan",26077,9.5,No
+Michigan,Kent County,"Kent County, Michigan",26081,9.2,No
+Michigan,Lenawee County,"Lenawee County, Michigan",26091,8.3,No
+Michigan,Macomb County,"Macomb County, Michigan",26099,8.2,Yes
+Michigan,Missaukee County,"Missaukee County, Michigan",26113,8.6,No
+Michigan,Oakland County,"Oakland County, Michigan",26125,7.5,Yes
+Michigan,Ottawa County,"Ottawa County, Michigan",26139,8.8,No
+Michigan,St. Clair County,"St. Clair County, Michigan",26147,8.2,Yes
+Michigan,Washtenaw County,"Washtenaw County, Michigan",26161,8.7,Yes
+Michigan,Wayne County,"Wayne County, Michigan",26163,11.7,Yes
+Minnesota,Anoka County,"Anoka County, Minnesota",27003,6.6,No
+Minnesota,Becker County,"Becker County, Minnesota",27005,7.2,No
+Minnesota,Beltrami County,"Beltrami County, Minnesota",27007,6.2,No
+Minnesota,Carlton County,"Carlton County, Minnesota",27017,2.2,No
+Minnesota,Cass County,"Cass County, Minnesota",27021,7.8,No
+Minnesota,Cook County,"Cook County, Minnesota",27031,2.3,No
+Minnesota,Crow Wing County,"Crow Wing County, Minnesota",27035,5.5,No
+Minnesota,Dakota County,"Dakota County, Minnesota",27037,7.4,No
+Minnesota,Hennepin County,"Hennepin County, Minnesota",27053,8,No
+Minnesota,Lake County,"Lake County, Minnesota",27075,4.7,No
+Minnesota,Lyon County,"Lyon County, Minnesota",27083,6.4,No
+Minnesota,Olmsted County,"Olmsted County, Minnesota",27109,6,No
+Minnesota,Ramsey County,"Ramsey County, Minnesota",27123,7.2,No
+Minnesota,St. Louis County,"St. Louis County, Minnesota",27137,5.1,No
+Minnesota,Scott County,"Scott County, Minnesota",27139,6.4,No
+Minnesota,Wright County,"Wright County, Minnesota",27171,7,No
+Mississippi,Bolivar County,"Bolivar County, Mississippi",28011,8.5,No
+Mississippi,DeSoto County,"DeSoto County, Mississippi",28033,8.7,No
+Mississippi,Forrest County,"Forrest County, Mississippi",28035,9.9,No
+Mississippi,Hancock County,"Hancock County, Mississippi",28045,8.5,No
+Mississippi,Harrison County,"Harrison County, Mississippi",28047,9.1,No
+Mississippi,Hinds County,"Hinds County, Mississippi",28049,10.1,No
+Mississippi,Jackson County,"Jackson County, Mississippi",28059,8.2,No
+Missouri,Buchanan County,"Buchanan County, Missouri",29021,8.1,No
+Missouri,Cass County,"Cass County, Missouri",29037,6.3,No
+Missouri,Cedar County,"Cedar County, Missouri",29039,6.7,No
+Missouri,Clay County,"Clay County, Missouri",29047,6,No
+Missouri,Jackson County,"Jackson County, Missouri",29095,7.9,No
+Missouri,Jefferson County,"Jefferson County, Missouri",29099,8,Yes
+Missouri,St. Louis County,"St. Louis County, Missouri",29189,7,Yes
+Missouri,St. Louis city,"St. Louis city, Missouri",29510,8.9,Yes
+Montana,Fergus County,"Fergus County, Montana",30027,5.2,No
+Montana,Flathead County,"Flathead County, Montana",30029,7.7,No
+Montana,Gallatin County,"Gallatin County, Montana",30031,3.9,No
+Montana,Lewis and Clark County,"Lewis and Clark County, Montana",30049,8.4,No
+Montana,Lincoln County,"Lincoln County, Montana",30053,13.4,Yes
+Montana,Missoula County,"Missoula County, Montana",30063,10.1,No
+Montana,Phillips County,"Phillips County, Montana",30071,5.6,No
+Montana,Powder River County,"Powder River County, Montana",30075,7.7,No
+Montana,Ravalli County,"Ravalli County, Montana",30081,7.8,No
+Montana,Richland County,"Richland County, Montana",30083,5.2,No
+Montana,Silver Bow County,"Silver Bow County, Montana",30093,7.8,No
+Montana,Yellowstone County,"Yellowstone County, Montana",30111,7.9,No
+Nebraska,Douglas County,"Douglas County, Nebraska",31055,7.5,No
+Nebraska,Hall County,"Hall County, Nebraska",31079,6.2,No
+Nebraska,Lancaster County,"Lancaster County, Nebraska",31109,6.4,No
+Nebraska,Sarpy County,"Sarpy County, Nebraska",31153,7.8,No
+Nebraska,Washington County,"Washington County, Nebraska",31177,6.2,No
+Nevada,Clark County,"Clark County, Nevada",32003,10.8,No
+Nevada,Douglas County,"Douglas County, Nevada",32005,9.6,No
+Nevada,Washoe County,"Washoe County, Nevada",32031,11,No
+Nevada,Carson City,"Carson City, Nevada",32510,8.7,No
+New Hampshire,Belknap County,"Belknap County, New Hampshire",33001,4.5,No
+New Hampshire,Cheshire County,"Cheshire County, New Hampshire",33005,6.6,No
+New Hampshire,Grafton County,"Grafton County, New Hampshire",33009,5.3,No
+New Hampshire,Hillsborough County,"Hillsborough County, New Hampshire",33011,3.9,No
+New Hampshire,Rockingham County,"Rockingham County, New Hampshire",33015,6,No
+New Jersey,Atlantic County,"Atlantic County, New Jersey",34001,6.3,No
+New Jersey,Camden County,"Camden County, New Jersey",34007,9.1,Yes
+New Jersey,Hunterdon County,"Hunterdon County, New Jersey",34019,7.4,No
+New Jersey,Mercer County,"Mercer County, New Jersey",34021,7.9,Yes
+New Jersey,Middlesex County,"Middlesex County, New Jersey",34023,7.7,Yes
+New Jersey,Ocean County,"Ocean County, New Jersey",34029,6.6,No
+New Jersey,Union County,"Union County, New Jersey",34039,9,Yes
+New Jersey,Warren County,"Warren County, New Jersey",34041,7.8,No
+New Mexico,Bernalillo County,"Bernalillo County, New Mexico",35001,9.6,No
+New Mexico,Doña Ana County,"Doña Ana County, New Mexico",35013,8.9,No
+New Mexico,Lea County,"Lea County, New Mexico",35025,6.3,No
+New Mexico,Santa Fe County,"Santa Fe County, New Mexico",35049,4.3,No
+New Mexico,Taos County,"Taos County, New Mexico",35055,5.5,No
+New York,Albany County,"Albany County, New York",36001,7.3,No
+New York,Bronx County,"Bronx County, New York",36005,8.1,Yes
+New York,Chautauqua County,"Chautauqua County, New York",36013,5.8,No
+New York,Erie County,"Erie County, New York",36029,7.1,No
+New York,Essex County,"Essex County, New York",36031,3.5,No
+New York,Monroe County,"Monroe County, New York",36055,6.5,No
+New York,Onondaga County,"Onondaga County, New York",36067,6.1,No
+New York,Queens County,"Queens County, New York",36081,7.4,Yes
+New York,Steuben County,"Steuben County, New York",36101,5.7,No
+North Carolina,Buncombe County,"Buncombe County, North Carolina",37021,5.8,No
+North Carolina,Catawba County,"Catawba County, North Carolina",37035,8.2,Yes
+North Carolina,Cumberland County,"Cumberland County, North Carolina",37051,7.6,No
+North Carolina,Davidson County,"Davidson County, North Carolina",37057,8.8,Yes
+North Carolina,Durham County,"Durham County, North Carolina",37063,7.3,No
+North Carolina,Forsyth County,"Forsyth County, North Carolina",37067,8.4,No
+North Carolina,Guilford County,"Guilford County, North Carolina",37081,7.4,Yes
+North Carolina,Johnston County,"Johnston County, North Carolina",37101,7.2,No
+North Carolina,Mecklenburg County,"Mecklenburg County, North Carolina",37119,8.7,No
+North Carolina,Mitchell County,"Mitchell County, North Carolina",37121,5.8,No
+North Carolina,Montgomery County,"Montgomery County, North Carolina",37123,7.6,No
+North Carolina,New Hanover County,"New Hanover County, North Carolina",37129,4.4,No
+North Carolina,Northampton County,"Northampton County, North Carolina",37131,6.7,No
+North Carolina,Pitt County,"Pitt County, North Carolina",37147,6.1,No
+North Carolina,Rowan County,"Rowan County, North Carolina",37159,7.7,No
+North Carolina,Swain County,"Swain County, North Carolina",37173,6,No
+North Carolina,Wake County,"Wake County, North Carolina",37183,6.9,No
+North Dakota,Billings County,"Billings County, North Dakota",38007,4.9,No
+North Dakota,Burke County,"Burke County, North Dakota",38013,6.4,No
+North Dakota,Burleigh County,"Burleigh County, North Dakota",38015,7.7,No
+North Dakota,Cass County,"Cass County, North Dakota",38017,8.3,No
+North Dakota,Dunn County,"Dunn County, North Dakota",38025,5.8,No
+North Dakota,McKenzie County,"McKenzie County, North Dakota",38053,5.4,No
+North Dakota,Mercer County,"Mercer County, North Dakota",38057,6,No
+North Dakota,Oliver County,"Oliver County, North Dakota",38065,7.2,No
+North Dakota,Ward County,"Ward County, North Dakota",38101,6.3,No
+Ohio,Allen County,"Allen County, Ohio",39003,6.4,No
+Ohio,Athens County,"Athens County, Ohio",39009,5.9,No
+Ohio,Clark County,"Clark County, Ohio",39023,8.4,Yes
+Ohio,Cuyahoga County,"Cuyahoga County, Ohio",39035,9.3,Yes
+Ohio,Franklin County,"Franklin County, Ohio",39049,8.8,Yes
+Ohio,Hamilton County,"Hamilton County, Ohio",39061,10.5,Yes
+Ohio,Lake County,"Lake County, Ohio",39085,6.4,Yes
+Ohio,Lawrence County,"Lawrence County, Ohio",39087,8.1,Yes
+Ohio,Medina County,"Medina County, Ohio",39103,6.6,Yes
+Ohio,Montgomery County,"Montgomery County, Ohio",39113,9.4,Yes
+Ohio,Preble County,"Preble County, Ohio",39135,8.1,No
+Ohio,Stark County,"Stark County, Ohio",39151,9.2,Yes
+Ohio,Summit County,"Summit County, Ohio",39153,8.4,Yes
+Ohio,Trumbull County,"Trumbull County, Ohio",39155,7.4,No
+Oklahoma,Carter County,"Carter County, Oklahoma",40019,8.7,No
+Oklahoma,Cleveland County,"Cleveland County, Oklahoma",40027,10.3,No
+Oklahoma,Comanche County,"Comanche County, Oklahoma",40031,8,No
+Oklahoma,Dewey County,"Dewey County, Oklahoma",40043,7.7,No
+Oklahoma,Kay County,"Kay County, Oklahoma",40071,9.9,No
+Oklahoma,Oklahoma County,"Oklahoma County, Oklahoma",40109,10.1,No
+Oklahoma,Pittsburg County,"Pittsburg County, Oklahoma",40121,8.9,No
+Oklahoma,Sequoyah County,"Sequoyah County, Oklahoma",40135,7.7,No
+Oklahoma,Tulsa County,"Tulsa County, Oklahoma",40143,9.2,No
+Oregon,Crook County,"Crook County, Oregon",41013,10,No
+Oregon,Harney County,"Harney County, Oregon",41025,10.8,No
+Oregon,Jackson County,"Jackson County, Oregon",41029,13.5,No
+Oregon,Klamath County,"Klamath County, Oregon",41035,15.6,Yes
+Oregon,Lane County,"Lane County, Oregon",41039,14.7,Yes
+Oregon,Multnomah County,"Multnomah County, Oregon",41051,8.1,No
+Oregon,Washington County,"Washington County, Oregon",41067,8.1,No
+Pennsylvania,Allegheny County,"Allegheny County, Pennsylvania",42003,10.9,Yes
+Pennsylvania,Armstrong County,"Armstrong County, Pennsylvania",42005,8.9,Yes
+Pennsylvania,Beaver County,"Beaver County, Pennsylvania",42007,8.6,Yes
+Pennsylvania,Berks County,"Berks County, Pennsylvania",42011,8.1,Yes
+Pennsylvania,Blair County,"Blair County, Pennsylvania",42013,8.3,No
+Pennsylvania,Cambria County,"Cambria County, Pennsylvania",42021,9.6,Yes
+Pennsylvania,Centre County,"Centre County, Pennsylvania",42027,7.8,No
+Pennsylvania,Chester County,"Chester County, Pennsylvania",42029,8.5,Yes
+Pennsylvania,Cumberland County,"Cumberland County, Pennsylvania",42041,7.6,Yes
+Pennsylvania,Dauphin County,"Dauphin County, Pennsylvania",42043,9.9,Yes
+Pennsylvania,Delaware County,"Delaware County, Pennsylvania",42045,9.1,Yes
+Pennsylvania,Lackawanna County,"Lackawanna County, Pennsylvania",42069,7.5,No
+Pennsylvania,Lancaster County,"Lancaster County, Pennsylvania",42071,9.2,Yes
+Pennsylvania,Lehigh County,"Lehigh County, Pennsylvania",42077,8.7,Yes
+Pennsylvania,Montgomery County,"Montgomery County, Pennsylvania",42091,8.2,Yes
+Pennsylvania,Northampton County,"Northampton County, Pennsylvania",42095,8.1,Yes
+Pennsylvania,Philadelphia County,"Philadelphia County, Pennsylvania",42101,9.1,Yes
+Pennsylvania,Washington County,"Washington County, Pennsylvania",42125,8.5,Yes
+Pennsylvania,York County,"York County, Pennsylvania",42133,9.6,Yes
+Rhode Island,Kent County,"Kent County, Rhode Island",44003,4.5,No
+Rhode Island,Providence County,"Providence County, Rhode Island",44007,7.9,No
+Rhode Island,Washington County,"Washington County, Rhode Island",44009,4.3,No
+South Carolina,Charleston County,"Charleston County, South Carolina",45019,7.2,No
+South Carolina,Chesterfield County,"Chesterfield County, South Carolina",45025,6.7,No
+South Carolina,Edgefield County,"Edgefield County, South Carolina",45037,7.6,No
+South Carolina,Florence County,"Florence County, South Carolina",45041,7.5,No
+South Carolina,Greenville County,"Greenville County, South Carolina",45045,8.2,No
+South Carolina,Lexington County,"Lexington County, South Carolina",45063,7.9,No
+South Carolina,Richland County,"Richland County, South Carolina",45079,7,No
+South Carolina,Spartanburg County,"Spartanburg County, South Carolina",45083,8.1,No
+South Carolina,York County,"York County, South Carolina",45091,6.9,No
+South Dakota,Brookings County,"Brookings County, South Dakota",46011,4.9,No
+South Dakota,Brown County,"Brown County, South Dakota",46013,5.5,No
+South Dakota,Codington County,"Codington County, South Dakota",46029,7.6,No
+South Dakota,Custer County,"Custer County, South Dakota",46033,4.1,No
+South Dakota,Hughes County,"Hughes County, South Dakota",46065,3.3,No
+South Dakota,Jackson County,"Jackson County, South Dakota",46071,4.5,No
+South Dakota,Pennington County,"Pennington County, South Dakota",46103,7.3,No
+Tennessee,Blount County,"Blount County, Tennessee",47009,7,Yes
+Tennessee,Davidson County,"Davidson County, Tennessee",47037,9.1,No
+Tennessee,Dyer County,"Dyer County, Tennessee",47045,7.2,No
+Tennessee,Hamilton County,"Hamilton County, Tennessee",47065,7.7,Yes
+Tennessee,Knox County,"Knox County, Tennessee",47093,9.4,Yes
+Tennessee,Lawrence County,"Lawrence County, Tennessee",47099,5.8,No
+Tennessee,Loudon County,"Loudon County, Tennessee",47105,6.6,Yes
+Tennessee,McMinn County,"McMinn County, Tennessee",47107,7.4,No
+Tennessee,Madison County,"Madison County, Tennessee",47113,7.4,No
+Tennessee,Maury County,"Maury County, Tennessee",47119,6.6,No
+Tennessee,Montgomery County,"Montgomery County, Tennessee",47125,7,No
+Tennessee,Putnam County,"Putnam County, Tennessee",47141,6.6,No
+Tennessee,Roane County,"Roane County, Tennessee",47145,7.1,Yes
+Tennessee,Shelby County,"Shelby County, Tennessee",47157,8.5,No
+Tennessee,Sullivan County,"Sullivan County, Tennessee",47163,6.3,No
+Tennessee,Sumner County,"Sumner County, Tennessee",47165,7.4,No
+Texas,Bell County,"Bell County, Texas",48027,7.4,No
+Texas,Bexar County,"Bexar County, Texas",48029,8.6,No
+Texas,Bowie County,"Bowie County, Texas",48037,10,No
+Texas,Brewster County,"Brewster County, Texas",48043,5.5,No
+Texas,Cameron County,"Cameron County, Texas",48061,9.1,No
+Texas,Dallas County,"Dallas County, Texas",48113,9.4,No
+Texas,Denton County,"Denton County, Texas",48121,7.5,No
+Texas,Ector County,"Ector County, Texas",48135,7.4,No
+Texas,El Paso County,"El Paso County, Texas",48141,9.2,No
+Texas,Galveston County,"Galveston County, Texas",48167,7.9,No
+Texas,Harris County,"Harris County, Texas",48201,11.4,No
+Texas,Hidalgo County,"Hidalgo County, Texas",48215,10.1,No
+Texas,Jefferson County,"Jefferson County, Texas",48245,8.3,No
+Texas,Kleberg County,"Kleberg County, Texas",48273,10.3,No
+Texas,Lubbock County,"Lubbock County, Texas",48303,5.8,No
+Texas,Maverick County,"Maverick County, Texas",48323,7.9,No
+Texas,Nueces County,"Nueces County, Texas",48355,8.7,No
+Texas,Orange County,"Orange County, Texas",48361,8.2,No
+Texas,Potter County,"Potter County, Texas",48375,5.9,No
+Texas,Tarrant County,"Tarrant County, Texas",48439,9.1,No
+Texas,Travis County,"Travis County, Texas",48453,9.3,No
+Texas,Webb County,"Webb County, Texas",48479,10.1,No
+Utah,Cache County,"Cache County, Utah",49005,8.1,Yes
+Utah,Davis County,"Davis County, Utah",49011,7.4,Yes
+Utah,Duchesne County,"Duchesne County, Utah",49013,6.9,No
+Utah,Iron County,"Iron County, Utah",49021,5.8,No
+Utah,Salt Lake County,"Salt Lake County, Utah",49035,9.9,Yes
+Utah,Tooele County,"Tooele County, Utah",49045,6.9,Yes
+Utah,Uintah County,"Uintah County, Utah",49047,6.3,No
+Utah,Utah County,"Utah County, Utah",49049,7.5,Yes
+Utah,Washington County,"Washington County, Utah",49053,5.6,No
+Utah,Weber County,"Weber County, Utah",49057,7,Yes
+Vermont,Bennington County,"Bennington County, Vermont",50003,5.7,No
+Vermont,Chittenden County,"Chittenden County, Vermont",50007,6.9,No
+Vermont,Rutland County,"Rutland County, Vermont",50021,7.5,No
+Virginia,Albemarle County,"Albemarle County, Virginia",51003,7.3,No
+Virginia,Arlington County,"Arlington County, Virginia",51013,7.1,Yes
+Virginia,Charles City County,"Charles City County, Virginia",51036,6.1,No
+Virginia,Chesterfield County,"Chesterfield County, Virginia",51041,6.1,No
+Virginia,Fairfax County,"Fairfax County, Virginia",51059,8.3,Yes
+Virginia,Frederick County,"Frederick County, Virginia",51069,7.7,No
+Virginia,Henrico County,"Henrico County, Virginia",51087,7.6,No
+Virginia,Loudoun County,"Loudoun County, Virginia",51107,6.6,Yes
+Virginia,Roanoke County,"Roanoke County, Virginia",51161,7.5,No
+Virginia,Rockingham County,"Rockingham County, Virginia",51165,6.7,No
+Virginia,Bristol city,"Bristol city, Virginia",51520,6.5,No
+Virginia,Hampton city,"Hampton city, Virginia",51650,6.5,No
+Virginia,Lynchburg city,"Lynchburg city, Virginia",51680,5.9,No
+Virginia,Norfolk city,"Norfolk city, Virginia",51710,6.5,No
+Virginia,Richmond city,"Richmond city, Virginia",51760,7.7,No
+Virginia,Salem city,"Salem city, Virginia",51775,6.5,No
+Virginia,Virginia Beach city,"Virginia Beach city, Virginia",51810,6.7,No
+Washington,Clark County,"Clark County, Washington",53011,9.1,No
+Washington,King County,"King County, Washington",53033,8.5,No
+Washington,Kitsap County,"Kitsap County, Washington",53035,6.4,No
+Washington,Kittitas County,"Kittitas County, Washington",53037,7.5,No
+Washington,Okanogan County,"Okanogan County, Washington",53047,13.4,No
+Washington,Pierce County,"Pierce County, Washington",53053,8.1,Yes
+Washington,Snohomish County,"Snohomish County, Washington",53061,8.9,No
+Washington,Stevens County,"Stevens County, Washington",53065,11.6,No
+Washington,Yakima County,"Yakima County, Washington",53077,11.8,No
+West Virginia,Berkeley County,"Berkeley County, West Virginia",54003,8.2,Yes
+West Virginia,Brooke County,"Brooke County, West Virginia",54009,8.5,Yes
+West Virginia,Cabell County,"Cabell County, West Virginia",54011,7.1,Yes
+West Virginia,Hancock County,"Hancock County, West Virginia",54029,7.8,Yes
+West Virginia,Harrison County,"Harrison County, West Virginia",54033,6.9,No
+West Virginia,Kanawha County,"Kanawha County, West Virginia",54039,7.5,Yes
+West Virginia,Marshall County,"Marshall County, West Virginia",54051,8.4,Yes
+West Virginia,Monongalia County,"Monongalia County, West Virginia",54061,7,No
+West Virginia,Ohio County,"Ohio County, West Virginia",54069,7.5,Yes
+West Virginia,Wood County,"Wood County, West Virginia",54107,7.5,Yes
+Wisconsin,Ashland County,"Ashland County, Wisconsin",55003,5.6,No
+Wisconsin,Brown County,"Brown County, Wisconsin",55009,7.8,No
+Wisconsin,Dane County,"Dane County, Wisconsin",55025,8.8,No
+Wisconsin,Dodge County,"Dodge County, Wisconsin",55027,7.9,No
+Wisconsin,Eau Claire County,"Eau Claire County, Wisconsin",55035,8.1,No
+Wisconsin,Forest County,"Forest County, Wisconsin",55041,5.9,No
+Wisconsin,Grant County,"Grant County, Wisconsin",55043,8.7,No
+Wisconsin,Kenosha County,"Kenosha County, Wisconsin",55059,7.9,No
+Wisconsin,La Crosse County,"La Crosse County, Wisconsin",55063,7.9,No
+Wisconsin,Milwaukee County,"Milwaukee County, Wisconsin",55079,9.4,Yes
+Wisconsin,Outagamie County,"Outagamie County, Wisconsin",55087,8,No
+Wisconsin,Sauk County,"Sauk County, Wisconsin",55111,7.7,No
+Wisconsin,Taylor County,"Taylor County, Wisconsin",55119,6.7,No
+Wisconsin,Vilas County,"Vilas County, Wisconsin",55125,5.3,No
+Wisconsin,Waukesha County,"Waukesha County, Wisconsin",55133,9.2,Yes
+Wyoming,Fremont County,"Fremont County, Wyoming",56013,2,No
+Wyoming,Laramie County,"Laramie County, Wyoming",56021,4.9,No
+Wyoming,Natrona County,"Natrona County, Wyoming",56025,3.8,No
+Wyoming,Park County,"Park County, Wyoming",56029,4.9,No
+Wyoming,Sublette County,"Sublette County, Wyoming",56035,3.6,No
+Wyoming,Teton County,"Teton County, Wyoming",56039,4.5,No
