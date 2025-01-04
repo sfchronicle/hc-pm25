@@ -1,2 +1,7 @@
+**.DS_Store
+**.~lock*
 GIS/
 env/
+.env
+data/CDC/*
+data/ACSST5Y2023.S1901_2025-01-03T110020.zip
