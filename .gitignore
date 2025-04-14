@@ -4,4 +4,6 @@ GIS/
 env/
 .env
 data/source/CDC/*
+data/source/TCEQ/2022ei_data.xlsx
 data/source/ACSST5Y2023.S1901_2025-01-03T110020/*
+hc-pm25-searchable-map/
